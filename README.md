@@ -35,3 +35,20 @@ _This is **Arewa** Data Science_
 3. Three
 4. Four
 
+# link 
+
+[ATBU] (atbu.edu.ng)
+
+# Image 
+
+![ATBU Logo] (https://atbu.edu.ng/image/Senate-Building01-Homepage-scaled.jpeg)
+
+# Table 
+|Name | Score | Grade
+|--|--|--|
+| John | 73| A
+| Musa | 53|C
+
+
+
+
