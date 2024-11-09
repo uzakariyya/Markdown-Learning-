@@ -14,7 +14,7 @@ _This is a Boy_
 
 _This is a **Girl**_
 
-_This is **Arewa** ### Data Science_ 
+_This is **Arewa** Data Science_ 
 
 
 # List 
@@ -34,4 +34,4 @@ _This is **Arewa** ### Data Science_
 2. Second
 3. Three
 4. Four
-- 
+
